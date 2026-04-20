@@ -23,10 +23,10 @@ pkg update -y && pkg upgrade -y
 pkg install git -y
 
 # 2. Clone o repositório do HydraStrike
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/dqrkveil01/ataque-feroz
 
 # 3. Entre no diretório da ferramenta
-cd SEU-REPOSITORIO
+cd ataque-feroz
 
 # 4. Execute o script de instalação
 bash install.sh
